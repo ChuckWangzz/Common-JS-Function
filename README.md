@@ -1,2 +1,2 @@
-# Function
-some funcitons
+# Common JS Function
+Some Common JS Function
